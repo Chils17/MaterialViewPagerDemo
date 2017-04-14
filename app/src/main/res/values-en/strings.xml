@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Material View Pager Demo</string>
+    <string name="tabname1">Android</string>
+    <string name="tabname2">IOS</string>
+    <string name="tabname3">Windows</string>
+    <string name="tabname4">Linux</string>
+    <string name="event">Event</string>
+    <string name="natural">Natural</string>
+    <string name="Beautywithbeast">Beauty with Beast</string>
+    <string name="RiverArea">River Area</string>
+    <string name="Forestarea">Forest Area</string>
+    <string name="MountainSnows">Mountain Snows</string>
+    <string name="Mountain">Mountain</string>
+    <string name="BunchesofTrees">Bunches of Trees</string>
+
+    <string-array name="languages">
+        <item>Select language</item>
+        <item>हिंदी</item>
+        <item>English</item>
+    </string-array>
+</resources>

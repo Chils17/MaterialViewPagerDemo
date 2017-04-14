@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">सामग्री दृश्य पेजर डेमो</string>
+    <string name="tabname1">एंड्रॉयड</string>
+    <string name="tabname2">आईओएस</string>
+    <string name="tabname3">विंडोज</string>
+    <string name="tabname4">लिनक्स</string>
+    <string name="event">घटना</string>
+    <string name="natural">प्राकृतिक</string>
+    <string name="Beautywithbeast">जानवरों के साथ सौंदर्य</string>
+    <string name="RiverArea">नदी क्षेत्र</string>
+    <string name="Forestarea">वन क्षेत्र</string>
+    <string name="MountainSnows">पहाड़ हिमपात</string>
+    <string name="Mountain">पहाड़</string>
+    <string name="BunchesofTrees">पेड़ों की कुंडियां</string>
+
+
+    <string-array name="languages">
+        <item>Select language</item>
+        <item>हिंदी</item>
+        <item>English</item>
+    </string-array>
+</resources>
